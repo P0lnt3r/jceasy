@@ -1,0 +1,6 @@
+# Project exclude paths
+/commons-business/target/
+/commons-framework/target/
+/commons-repository/target/
+/service-api/target/
+/service-gateway/target/
